@@ -4,8 +4,6 @@
 This is Part 2 of the Cybersecurity Awareness Chatbot POE. 
 The console application from Part 1 has been fully redesigned as a **Windows Forms (WinForms)** GUI application with a dark cyber theme. The chatbot educates South African citizens on cybersecurity topics including phishing, passwords, scams, malware, and more.
 
----
-
 ## How to Run the Project
 
 ### What You Need
