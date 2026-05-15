@@ -112,9 +112,3 @@ Commit Message
 | v2.1.0 | Sentiment and Memory Added | SentimentDetector for mood detection and UserMemory for storing user details |
 ---
 
-## References
-
-Pieterse, H. 2021. The Cyber Threat Landscape in South Africa: A 10-Year Review.
-The African Journal of Information and Communication, 28(28).
-Available at: https://www.scielo.org.za/scielo.php?pid=S2077-72132021000200003&script=sci_arttext
-[Accessed 16 February 2026].
